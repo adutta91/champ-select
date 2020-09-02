@@ -1,0 +1,15 @@
+@import './styles/colors.scss';
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 2rem;
+  background-color: $dark-blue;
+  color: $offwhite;
+}
+
+.title {
+  font-family: 'Catamaran', sans-serif;
+}
